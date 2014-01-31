@@ -1,0 +1,17 @@
+{
+  "uuid": "454d28d6-76bd-417a-9017-6f28548bc87b",
+  "shortName": "draw-outline",
+  "longName": "draw-outline",
+  "companyName": "Zernyu",
+  "versionCode": 1,
+  "versionLabel": "1.0.0",
+  "watchapp": {
+    "watchface": false
+  },
+  "appKeys": {
+    "dummy": 0
+  },
+  "resources": {
+    "media": []
+  }
+}
